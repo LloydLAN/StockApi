@@ -1,0 +1,17 @@
+{
+    "Id":"2303",
+    "Name":"聯華電子",
+    "DividendData":[
+      {
+        "Year":"2021",
+        "CashDividend":"1.6",
+        "StockDividend":"0",
+        "TotalDividend":"1.6"
+      },{
+        "Year":"2020",
+        "CashDividend":"0.8",
+        "StockDividend":"0",
+        "TotalDividend":"0.8"   
+      }
+  ]
+}
